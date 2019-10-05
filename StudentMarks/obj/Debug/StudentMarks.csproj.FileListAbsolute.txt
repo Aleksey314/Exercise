@@ -1,0 +1,7 @@
+D:\VS\app\Exercises\StudentMarks\bin\Debug\StudentMarks.exe.config
+D:\VS\app\Exercises\StudentMarks\bin\Debug\StudentMarks.exe
+D:\VS\app\Exercises\StudentMarks\bin\Debug\StudentMarks.pdb
+D:\VS\app\Exercises\StudentMarks\obj\Debug\StudentMarks.csprojAssemblyReference.cache
+D:\VS\app\Exercises\StudentMarks\obj\Debug\StudentMarks.csproj.CoreCompileInputs.cache
+D:\VS\app\Exercises\StudentMarks\obj\Debug\StudentMarks.exe
+D:\VS\app\Exercises\StudentMarks\obj\Debug\StudentMarks.pdb
